@@ -3,6 +3,7 @@
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 </p>
+
 * 在移动硬盘中考古发现n年前写的点名器😅....动画灵感来源于[liuyubobobo](https://www.imooc.com/u/108955/courses?sort=publish)老师的倒计时器
 * 用于抽取学生学号随机回答问题
 * 支持单人抽取和多人抽取
