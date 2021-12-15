@@ -11,7 +11,7 @@
 * **代码都糊在一个文件里了，求好心人重构**😅😅😅😅😅
 
 # 使用
-打开链接 (点名器)[https://xianghao-wang.github.io/random-select/]
+打开链接 [点名器](https://xianghao-wang.github.io/random-select/)
 
 # 演示
 
