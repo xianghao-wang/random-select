@@ -28,10 +28,8 @@
             }
             #attachment {
                 position: relative;
-                display: block
-                box-shadow: -2px -2px 2px #cacaca, 5px 5px 5px #353535; margin: 30px auto;            
+                display: block;    
             }
-        }
     </style>
 </head>
 <body style="height: 100%; width: 100%;" id="body">
@@ -55,7 +53,7 @@
         </div>
 
         <button type="button" id="group">抽取多人</button>
-        <p id="txt">© Designed by XianghaoWang</p>
+        <p id="txt">© Designed by Xianghao Wang</p>
 	</div>
 </div>
 
@@ -387,6 +385,7 @@ okey.onclick = function() {
         return;
     }
     run = true;
+    txt.innerHTML = '© Designed by Xianghao Wang'
 
     //打乱两个数组
     shuffle(students);
